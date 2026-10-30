@@ -24,8 +24,6 @@
 
 Desarrollo aplicaciones web y móviles, combinando **interfaces, lógica de negocio y bases de datos**. Me gusta aprender construyendo proyectos completos y mejorar continuamente la calidad de mi código.
 
-Actualmente estoy profundizando en **arquitectura de software, patrones de diseño y buenas prácticas de desarrollo**.
-
 ### Tecnologías y herramientas
 
 <table>
