@@ -1,10 +1,3 @@
-[README.md](https://github.com/user-attachments/files/34165167/README.md)
-[README (1).md](https://github.com/user-attachments/files/34165251/README.1.md)<!--
-  Perfil de GitHub | AmnerMarin
-  Estilo: tecnológico + minimalista
-  Personalización: cambia los textos, proyectos o tecnologías que desees.
-  Los logos y las imágenes dinámicas dependen de servicios externos.
--->
 
 <div align="center">
 
@@ -108,11 +101,6 @@ Actualmente estoy profundizando en **arquitectura de software, patrones de dise�
   </tr>
 </table>
 
-### Actividad en GitHub
-
-<div align="center">
-  <img src="https://ghstats.dev/api/card?username=AmnerMarin&theme=tokyonight" alt="Estadísticas públicas de GitHub de AmnerMarin" width="470" />
-</div>
 
 ---
 
